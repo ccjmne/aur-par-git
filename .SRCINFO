@@ -1,7 +1,7 @@
 pkgbase = par-git
 	pkgdesc = Adam M. Costello's paragraph reformatter, vaguely similar to fmt, but better.
 	pkgver = 1.53.0.r0.eb0590f
-	pkgrel = 1
+	pkgrel = 2
 	url = http://www.nicemice.net/par/
 	arch = x86_64
 	arch = i686

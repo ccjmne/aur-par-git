@@ -1,7 +1,7 @@
 # Maintainer: Éric NICOLAS <ccjmne@gmail.com>
 pkgname=par-git
 pkgver=1.53.0.r0.eb0590f
-pkgrel=1
+pkgrel=2
 pkgdesc="Adam M. Costello's paragraph reformatter, vaguely similar to fmt, but better."
 arch=('x86_64' 'i686' 'aarch64' 'arm7h' 'arm6h' 'arm')
 url="http://www.nicemice.net/par/"
